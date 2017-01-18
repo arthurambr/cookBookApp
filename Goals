@@ -1,0 +1,11 @@
+the cookbook app
+
+Create a cookbook recipe app
+1 page for all the ingridients with a checker mark
+1 page for instructions
+    hability to see one instruction at a time or all together
+Possibility to add new recipes
+Possibility to export the ingridients to a to-do list or email or text message
+Possibility to import and export recipes to a data-base
+Possibility to send the recipe to a friend by email, text message, others and internal app
+Possibility to see images
